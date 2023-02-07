@@ -1,4 +1,4 @@
-package class17;
+package Classification17_Projects;
         /*6) Write Book class that will have instance variables and 2 Constructors.
         While creating an object make sure:
         Instance variables are being initialized

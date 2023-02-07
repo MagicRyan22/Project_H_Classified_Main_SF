@@ -1,4 +1,4 @@
-package class17;
+package Classification17_Projects;
 
 public class HomeworkBookTester {
     public static void main(String[] args) {

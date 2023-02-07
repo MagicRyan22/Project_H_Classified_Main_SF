@@ -1,4 +1,4 @@
-package class17;
+package Classification17_Projects;
         /*Write a java class that will have a constructor: one with
         parameters and second without any parameters. Create a
         separate Test class where you will execute both of the
